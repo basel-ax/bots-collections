@@ -3,6 +3,7 @@ Trading bot collection
 ## [bbgo](https://github.com/c9s/bbgo)
 All bot and strategies u can find in repository
 ## [hummingbot](https://github.com/hummingbot/hummingbot)
+- [Funding Arbitrage](./hummingbot/fund-arb.md)
 - [Statistical Arbitrage](./hummingbot/statarb.md)
 - [Identify Opportunities, cross_dex_arb](./hummingbot/cross_dex_arb.py)
 - [Public bots from hummingbot learning cohorts, video (mostly)](https://www.botcamp.xyz/cohorts)
