@@ -16,11 +16,9 @@ dYdX quoted in hourly rates. Others (CEX) quoted in 8 hourly rates.
 - [Crypto Arbitrage Scanner with CEX select](https://cryptoarbitragescreener.com)
 - [coinank funding Rate](https://coinank.com/fundingRate/current)  
     simple, ~10 exchanges 
-- [Perp Dex tools](https://ghzperpdextools.vercel.app)
-- [hyperliquid Funding Comparison](https://app.hyperliquid.xyz/fundingComparison)  
+- [Hyperliquid Funding Comparison](https://app.hyperliquid.xyz/fundingComparison)  
   Data only for Hyperliquid, Binance, Bybit
-- [connect hyperliquid_perpetual, Hummingbot](https://hummingbot.org/blog/funding-rate-arbitrage-and-creating-vaults-on-hyperliquid/)
-
+  
 ## Tasks
 - [ ] Need check quote on other DEX. Use Perp Dex tools  
 - [ ] Multi Exchange Funding Arb(locking for script)
