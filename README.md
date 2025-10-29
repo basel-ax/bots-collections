@@ -10,17 +10,24 @@ All bot and strategies u can find in repository
 - [Public bots from hummingbot learning cohorts, video (mostly)](https://www.botcamp.xyz/cohorts)
 
 ## Funding Rate Arbitrage for airdrop on perpetual DEXs
-- [Perp Dex tools](https://ghzperpdextools.vercel.app)
+![Perp DEXes](https://pbs.twimg.com/media/G32muHEX0AAymbQ?format=jpg&name=large)
+- [Perp DEX tools](https://ghzperpdextools.vercel.app)
+- [Perp DEXs Wash/Farm Tracker, dune](https://dune.com/nonamealert/perpdexwashfarmtracker)
 
 ### [Paradex](https://app.paradex.trade/r/baselax)
+- [Dune dashboard](https://dune.com/kucoinventures/paradex) 
 - [Paradex Trading Bot (MM, python, github)](https://github.com/Ham1et/paradex-bot)
 - [Paradex + Backpack Delta Neutral Bot, python. github](https://github.com/Pastfin/Paradex-Backpack-delta-neutral-bot)
 - [Paradex airdrop XP point, docs](https://docs.paradex.trade/xp-referrals/xp)
 
-### [Hibachi](https://hibachi.xyz/r/RA2J3V52TQ)
-- [Hibachi Trading Bot, python, github(MoonDev)](https://github.com/moondevonyt/Hibachi-Crypto-Exchange-Trading-Python-Examples)
-- [Hibachi is currently in the off-season of points](https://docs.hibachi.xyz/hibachi-rewards/points)  
-   but you still can make points for future possible Season  
+### [Extended](https://app.extended.exchange)
+- [Dune dashboard](https://dune.com/vadymdi/extended-dashboard), ~700 Daily Active Traders
+- [Extended Trading Bot (python, github)](https://github.com/ericeric0101/Extended_Dex_Bot)
+- [Extended airdrop points, docs](https://docs.extended.exchange/extended-resources/points)
+
+### [Lighter](https://app.lighter.xyz)
+- [Lighter Grid Bot, pyhton, github](https://github.com/ArthurOnWeb/lighter-grid-bot)
+- [Lighter’s Season 1 ended. Season 2 points will be distributed every Friday, docs](https://docs.lighter.xyz/points-program)
 
 ### [Vestmarkets](https://alpha.vestmarkets.com/join/BASEL)
 - Open-source bot not found
@@ -32,13 +39,10 @@ Register by email. Need KYC.
 - [Backpack Grid Bot, js, github](https://github.com/pordria/backpack-grid-bot)
 - Airdrop - Point farming (Season 3), leaderboard on main site
 
-### [Extended](https://app.extended.exchange)
-- [Extended Trading Bot (python, github)](https://github.com/ericeric0101/Extended_Dex_Bot)
-- [Extended airdrop points, docs](https://docs.extended.exchange/extended-resources/points)
-
-### [Lighter](https://app.lighter.xyz)
-- [Lighter Grid Bot, pyhton, github](https://github.com/ArthurOnWeb/lighter-grid-bot)
-- [Lighter’s Season 1 ended. Season 2 points will be distributed every Friday, docs](https://docs.lighter.xyz/points-program)
+### [Hibachi](https://hibachi.xyz/r/RA2J3V52TQ)
+- [Hibachi Trading Bot, python, github(MoonDev)](https://github.com/moondevonyt/Hibachi-Crypto-Exchange-Trading-Python-Examples)
+- [Hibachi is currently in the off-season of points](https://docs.hibachi.xyz/hibachi-rewards/points)  
+   but you still can make points for future possible Season  
 
 ### [Hyperliquid](https://app.hyperliquid.xyz/)
 - [Hyperliquid MM, js, github](https://github.com/lorine93s/hyperliquid-market-macker)
